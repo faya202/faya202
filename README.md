@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @faya202
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I’m Fayo 👋
 
-<!---
-faya202/faya202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m learning networking and software development.
+
+## Currently Learning
+- CCNA networking fundamentals
+- HTML, CSS, and JavaScript
+- Git and GitHub
+- Java and Spring Boot
+
+## Projects
+- [My Learning Website](https://faya202.github.io/test_1/)
+- Wells Fargo Software Engineering Forage Task
+
+## Goals
+- Earn my CCNA certification
+- Build more hands-on networking and coding projects
+- Keep improving one step at a time
